@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "The Secret Life of Plants"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2018-spring-teaching-1
+venue: "University of California Berkeley, Department of Plant and Microbial Biology"
+date: 2018-01-01 - 2018-05-25
+location: "Berkeley, CA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
