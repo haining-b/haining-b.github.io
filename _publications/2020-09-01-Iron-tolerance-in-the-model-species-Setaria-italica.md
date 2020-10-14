@@ -7,7 +7,7 @@ excerpt: ' In order to assess the variation in iron accumulation in <i>Setaria</
 #date: 2020-09-01
 #venue: 'Journal 1'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'B. Haining, R. Martinez and S. Hake. Iron tolerance in the model species <i>Setaria italica</i>. <i>In preparation.</i>'
+citation: 'B. Haining, R. Martinez and S. Hake.&quot; Iron tolerance in the model species <i>Setaria italica</i>. &quot;<i>In preparation.</i>'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
