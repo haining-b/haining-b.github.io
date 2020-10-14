@@ -70,9 +70,9 @@ Teaching
     * Guided weekly discussion sections
     
   * Introduction to Environmental Sciences, 212 students, <i> Fall 2019 </i>
-    * Worked with a team of 3 others to design and grade weekly homework assignments
+    * Worked with a team of 6 others to design and grade weekly homework assignments
     * Designed materials for weekly discussion sections
-    * Guided 2 weekly 30 - 35 person sections
+    * Guided 3 weekly 30 - 35 person sections
     
 
   
