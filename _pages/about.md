@@ -15,4 +15,4 @@ Hi!  I’m Brianna Haining, a computational biologist living in Berkeley, CA. I 
 
 Research Interests
 ======
-My research interests center around the use of computational and statistical methods to maximize our resilience to climate change. My PhD work was aimed at addressing the pressing need for rapid germplasm improvement in agricultural species as diverse as rice and pigs. I maintain interests in a diversity of fields, including statistical genetics, evolutionary biology, and natural language processing.
+My research interests center around the use of computational and statistical methods to maximize our resilience to climate change. My PhD work was aimed at addressing the pressing need for rapid germplasm improvement in agricultural species as diverse as rice and pigs. I maintain an interest in a diversity of fields, including statistical genetics, evolutionary biology, and natural language processing.
