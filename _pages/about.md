@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 
-Hi!  I’m Brianna Haining, a computational biologist living in Berkeley, CA. I recently graduated from the Department of Plant and Microbial Biology at the University of California Berkeley, where I had the pleasure of being advised by Sarah Hake. Before Berkeley, I was at New York University Abu Dhabi, where I completed my Bachelors in Biology. 
+Hi!  I’m Brianna Haining, a computational biologist living in Berkeley, CA. I recently graduated from the Department of Plant and Microbial Biology at the University of California Berkeley, where I had the pleasure of being advised by Sarah Hake. Before Berkeley, I studied at New York University Abu Dhabi, where I completed my Bachelors in Biology. 
 
-
-
-Research Interests
-======
-My research interests center around the use of computational and statistical methods to maximize our resilience to climate change. My PhD work was aimed at addressing the pressing need for rapid germplasm improvement in agricultural species as diverse as rice and pigs. I maintain an interest in a diversity of fields, including statistical genetics, evolutionary biology, and natural language processing.
+The bulk of my PhD was dedicated to maximizing our agricultural system’s resilience to climate change. To address the pressing need for rapid germplasm improvement in crop species, I worked to elucidate the genomic architecture underlying ionic homeostasis in the emerging model organism foxtail millet (<i>Setaria italica</i>).
