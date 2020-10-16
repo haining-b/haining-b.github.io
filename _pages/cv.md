@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Research Technician | Katzenellenbogen Lab | 2014 - 2015
+** Research Technician | Katzenellenbogen Lab | 2014 - 2015
   * Seattle Children's Research Institute, <i>Seattle, WA</i>
   *  Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.
   *  Acted to maintain laboratory order and cleanliness.
