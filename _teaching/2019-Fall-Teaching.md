@@ -1,4 +1,5 @@
 ---
+
 title: "Introduction to Environmental Sciences"
 collection: teaching
 type: "Large Undergraduate Class"
