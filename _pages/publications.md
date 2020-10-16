@@ -14,14 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% assign yeartest = true %}
-{% for publi in site.publications %}
-  {% if publi.year %}{% else %}
-   {% assign yeartest = false %}
-  {% endif %}
-{% endfor %}
-
-{% if yeartest == false %}
-### In Preparation
-{% endif %}
