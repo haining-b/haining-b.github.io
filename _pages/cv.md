@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-** Research Technician | Katzenellenbogen Lab | 2014 - 2015
+
+* Research Technician | Katzenellenbogen Lab | 2014 - 2015
   * Seattle Children's Research Institute, <i>Seattle, WA</i>
   *  Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.
   *  Acted to maintain laboratory order and cleanliness.
@@ -38,12 +39,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* idk
 
 Publications
 ======
