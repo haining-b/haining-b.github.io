@@ -86,6 +86,9 @@ Talks
   
 Teaching
 ======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   * The Secret Life of Plants, 200 students, <i> Spring 2018 </i>
     * Worked with a team of 3 others to design and grade weekly homework assignments
     * Designed materials for weekly discussion sections
