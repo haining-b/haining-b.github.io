@@ -47,17 +47,17 @@ Skills
 
 ### Computational Skills
 * Python
-  * NLTK
-  * scikit-learn
-  * NumPy
-  * pandas
+  * <span style="font-size:0.9em;">NLTK</span>
+  * <span style="font-size:0.9em;">scikit-learn</span>
+  * <span style="font-size:0.9em;">NumPy</span>
+  * <span style="font-size:0.9em;">pandas</span>
 * R
-  * ggplot2
-  * ddplyr
-  * tidyR
-  * BioConductor
-  * Shiny
-  * StringR 
+  * <span style="font-size:0.9em;">ggplot2</span>
+  * <span style="font-size:0.9em;">ddplyr</span>
+  * <span style="font-size:0.9em;">tidyR</span>
+  * <span style="font-size:0.9em;">BioConductor</span>
+  * <span style="font-size:0.9em;">Shiny</span>
+  * <span style="font-size:0.9em;">StringR </span>
 * SQL
 
 ### Wetlab Skills
