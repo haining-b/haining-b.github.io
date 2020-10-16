@@ -5,6 +5,7 @@ layout: archive
 type: "Small undergraduate course"
 permalink: /teaching/2018-Fall-teaching
 venue: "University of California Berkeley, Department of Plant and Microbial Biology"
+location: "Berkeley, CA"
 date: 2018-08-20 - 2018-12-20
 
 ---
