@@ -1,6 +1,7 @@
 ---
 title: "The Secret Life of Plants"
 collection: teaching
+layout: archive
 type: "Large undergraduate course"
 permalink: /teaching/2018-spring-teaching-1
 venue: "University of California Berkeley, Department of Plant and Microbial Biology"
