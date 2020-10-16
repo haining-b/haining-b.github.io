@@ -21,21 +21,21 @@ Work experience
 
 ### Research Technician | Katzenellenbogen Lab | 2014 - 2015
 
-   ><span style="font-size:0.8em; font-style:italic">    Seattle Children's Research Institute, Seattle, WA</span>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic">Seattle Children's Research Institute, Seattle, WA</span>
   *  Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.
   *  Acted to maintain laboratory order and cleanliness.
 
 ### Capstone Researcher | Purugganan Lab | 2013 - 2014
-  * New York University Abu Dhabi Center for Genomics and Systems Biology, <i>Abu Dhabi, UAE</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> New York University Abu Dhabi Center for Genomics and Systems Biology, Abu Dhabi, UAE</span>
   * Researched the origin and domestication of the date palm using chloroplast genotyping. The sequence of the psbA-trnH gene of ~70 different cultivars was utilized to produce a maximum likelihood phylogenetic tree.
   * This tree, along with a minimum spanning haplotype network, revealed the existence of two separate date palm populations and a minimum of two separate domestication events.
  
 ### Intern | Geballe Lab | 2013
-  * Fred Hutchinson Cancer Research Center, <i>Seattle, WA</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> Fred Hutchinson Cancer Research Center, Seattle, WA</span>
   * Investigated the evolution of the cytomegalovirus (CMV) PKR antagonist TRS1 in New World monkeys. Squirrel Monkey CMV was found to antagonize the PKR pathway in human fibroblasts, and its TRS1, like those of old world monkey CMVs, bound to dsRNA.
 
 ### Intern | Desplan Lab | 2012
-  * New York University Center for Genomics and Systems Biology, <i>New York, NY</i>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> New York University Center for Genomics and Systems Biology, New York, NY</span>
   * Investigated the developmental patterning of the jewel wasp, <i>Nasonia vitripennis</i> using RNAi and confocal microscopy. 
 
 
