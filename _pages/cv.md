@@ -17,21 +17,21 @@ Education
 Work experience
 ======
 
-* Research Technician | Katzenellenbogen Lab | 2014 - 2015
+#### Research Technician | Katzenellenbogen Lab | 2014 - 2015
   * Seattle Children's Research Institute, <i>Seattle, WA</i>
   *  Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.
   *  Acted to maintain laboratory order and cleanliness.
 
-* Capstone Researcher | Purugganan Lab | 2013 - 2014
+#### Capstone Researcher | Purugganan Lab | 2013 - 2014
   * New York University Abu Dhabi Center for Genomics and Systems Biology, <i>Abu Dhabi, UAE</i>
   * Researched the origin and domestication of the date palm using chloroplast genotyping. The sequence of the psbA-trnH gene of ~70 different cultivars was utilized to produce a maximum likelihood phylogenetic tree.
   * This tree, along with a minimum spanning haplotype network, revealed the existence of two separate date palm populations and a minimum of two separate domestication events.
  
-* Intern | Geballe Lab | 2013
+#### Intern | Geballe Lab | 2013
   * Fred Hutchinson Cancer Research Center, <i>Seattle, WA</i>
   * Investigated the evolution of the cytomegalovirus (CMV) PKR antagonist TRS1 in New World monkeys. Squirrel Monkey CMV was found to antagonize the PKR pathway in human fibroblasts, and its TRS1, like those of old world monkey CMVs, bound to dsRNA.
 
-* Intern | Desplan Lab | 2012
+#### Intern | Desplan Lab | 2012
   * New York University Center for Genomics and Systems Biology, <i>New York, NY</i>
   * Investigated the developmental patterning of the jewel wasp, <i>Nasonia vitripennis</i> using RNAi and confocal microscopy. 
 
@@ -39,7 +39,7 @@ Work experience
   
 Skills
 ======
-* idk
+* Python, R, SQL, NumPy
 
 Publications
 ======
@@ -69,9 +69,4 @@ Teaching
     * Worked with a team of 6 others to design and grade weekly homework assignments
     * Designed materials for weekly discussion sections
     * Guided 3 weekly 30 - 35 person sections
-    
-
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
