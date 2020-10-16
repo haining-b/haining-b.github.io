@@ -8,10 +8,10 @@ date: 2019-08-20 - 2019-12-20
 
 ---
 
-## Summary
+Summary
 Survey course spanning subjects as diverse as soil science, atmospheric science, and forest management.
 
-## Duties
+Duties
    * Worked with a team of six others to design and grade weekly homework assignments
    * Designed materials for weekly discussion sections
    * Guided three weekly 30 - 35 person sections
