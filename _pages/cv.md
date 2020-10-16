@@ -44,7 +44,33 @@ Work experience
   
 Skills
 ======
-* Python, R, SQL, NumPy
+
+### Computational Skills
+* Python
+  * NLTK
+  * scikit-learn
+  * NumPy
+  * pandas
+* R
+  * ggplot2
+  * ddplyr
+  * tidyR
+  * BioConductor
+  * Shiny
+  * StringR 
+* SQL
+
+### Wetlab Skills
+ * Primary and secondary mammalian cell culture, 
+ * Primary plant tissue culture
+ * PCR (including rtPCR, qPCR)
+ * Cloning 
+ * Transfection and transduction, 
+ * Nucleic acid isolation
+ * Protein isolation
+ * Western blot 
+ * Bacterial culture
+ * CRISPR
 
 Publications
 ======
