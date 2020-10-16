@@ -29,16 +29,16 @@ Work experience
 
 ### Capstone Researcher | Purugganan Lab | 2013 - 2014
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> New York University Abu Dhabi Center for Genomics and Systems Biology, Abu Dhabi, UAE</span>
-  * Researched the origin and domestication of the date palm using chloroplast genotyping. The sequence of the psbA-trnH gene of ~70 different cultivars was utilized to produce a maximum likelihood phylogenetic tree.
-  * This tree, along with a minimum spanning haplotype network, revealed the existence of two separate date palm populations and a minimum of two separate domestication events.
+  * <span style="font-size:0.9em;">Researched the origin and domestication of the date palm using chloroplast genotyping. The sequence of the psbA-trnH gene of ~70 different cultivars was utilized to produce a maximum likelihood phylogenetic tree.</span>
+  * <span style="font-size:0.9em;">This tree, along with a minimum spanning haplotype network, revealed the existence of two separate date palm populations and a minimum of two separate domestication events.</span>
  
 ### Intern | Geballe Lab | 2013
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> Fred Hutchinson Cancer Research Center, Seattle, WA</span>
-  * Investigated the evolution of the cytomegalovirus (CMV) PKR antagonist TRS1 in New World monkeys. Squirrel Monkey CMV was found to antagonize the PKR pathway in human fibroblasts, and its TRS1, like those of old world monkey CMVs, bound to dsRNA.
+  * <span style="font-size:0.9em;">Investigated the evolution of the cytomegalovirus (CMV) PKR antagonist TRS1 in New World monkeys. Squirrel Monkey CMV was found to antagonize the PKR pathway in human fibroblasts, and its TRS1, like those of old world monkey CMVs, bound to dsRNA.</span>
 
 ### Intern | Desplan Lab | 2012
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> New York University Center for Genomics and Systems Biology, New York, NY</span>
-  * Investigated the developmental patterning of the jewel wasp, <i>Nasonia vitripennis</i> using RNAi and confocal microscopy. 
+  * <span style="font-size:0.9em;">Investigated the developmental patterning of the jewel wasp, <i>Nasonia vitripennis</i> using RNAi and confocal microscopy. </span>
 
 
   
