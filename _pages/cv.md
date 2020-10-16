@@ -9,12 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.nobullet li {
+  list-style-type: none;
+}
+</style>
+
+<div class="nobullet">
+* This list
+* Doesn't have bullets
+</div>
 
 
 Education
 ======
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in Biology, New York University Abu Dhabi, 2010
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ph.D in Plant Genetics, University of California, Berkeley, 2020
+<div class="nobullet"> 
+  * B.S. in Biology, New York University Abu Dhabi, 2010
+  * Ph.D in Plant Genetics, University of California, Berkeley, 2020
+  </div>
 
 Work experience
 ======
