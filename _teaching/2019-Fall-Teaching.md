@@ -5,6 +5,7 @@ collection: teaching
 type: "Large undergraduate course"
 permalink: /teaching/2019-Fall-teaching
 venue: "University of California Berkeley, Department of Environmental Science, Policy, and Management"
+location: "Berkeley, CA"
 date: 2019-08-20 - 2019-12-20
 
 ---
