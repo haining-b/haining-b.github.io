@@ -61,16 +61,16 @@ Skills
 * SQL
 
 ### Wetlab Skills
- * Primary and secondary mammalian cell culture, 
- * Primary plant tissue culture
- * PCR (including rtPCR, qPCR)
- * Cloning 
- * Transfection and transduction, 
- * Nucleic acid isolation
- * Protein isolation
- * Western blot 
- * Bacterial culture
- * CRISPR
+ * <span style="font-size:0.9em;"><span style="font-size:0.9em;">Primary and secondary mammalian cell culture</span>
+ * <span style="font-size:0.9em;">Primary plant tissue culture</span>
+ * <span style="font-size:0.9em;">PCR (including rtPCR, qPCR)</span>
+ * <span style="font-size:0.9em;">Cloning </span>
+ * <span style="font-size:0.9em;">Transfection and transduction</span> 
+ * <span style="font-size:0.9em;">Nucleic acid isolation</span>
+ * <span style="font-size:0.9em;">Protein isolation</span>
+ * <span style="font-size:0.9em;">Western blot </span>
+ * <span style="font-size:0.9em;">Bacterial culture</span>
+ * <span style="font-size:0.9em;">CRISPR</span>
 
 Publications
 ======
