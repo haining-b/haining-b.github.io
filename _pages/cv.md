@@ -13,8 +13,8 @@ redirect_from:
 
 Education
 ======
-  ### B.S. in Biology, New York University Abu Dhabi, 2010
-  ### Ph.D in Plant Genetics, University of California, Berkeley, 2020
+  * B.S. in Biology, New York University Abu Dhabi, 2010
+  * Ph.D in Plant Genetics, University of California, Berkeley, 2020
   
 
 Work experience
@@ -23,8 +23,9 @@ Work experience
 ### Research Technician | Katzenellenbogen Lab | 2014 - 2015
 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic">Seattle Children's Research Institute, Seattle, WA</span>
-   <span style="font-size:0.9em;">- Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.
-   - Acted to maintain laboratory order and cleanliness.</span>
+   
+   - <span style="font-size:0.9em;">Produced and maintained primary and secondary mammalian cell lines to assist with research on the interaction between the host protein NFX1 and the human papillomavirus protein E6.</span>
+   - <span style="font-size:0.9em;"> Acted to maintain laboratory order and cleanliness.</span>
 
 ### Capstone Researcher | Purugganan Lab | 2013 - 2014
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:0.8em; font-style:italic"> New York University Abu Dhabi Center for Genomics and Systems Biology, Abu Dhabi, UAE</span>
