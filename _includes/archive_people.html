@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.date1 %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date1 | date1: '%B %d, %Y' }} {{ post.date2 | date2: '%B %d, %Y' }} to </p>{% endif %}
+    {% if post.date1 and post.date2 %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date1 | date1: '%B %d, %Y' }}, {{ post.date2 | date2: '%B %d, %Y' }} </p>{% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{post.type}} at {{ post.venue }},  {{post.location}}</p>{% endif %}
     </li>
   </article>
