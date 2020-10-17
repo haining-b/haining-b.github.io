@@ -2,7 +2,7 @@
 title: "Ryan Martinez"
 collection: interns
 permalink: /mentorship/ryan/
-date: 2016-10-06 
-date: 2018-05-12
+date1: 2016-10-06 
+date2: 2018-05-12
 
 ---
