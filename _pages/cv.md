@@ -93,5 +93,5 @@ Teaching
 Mentorship
 ======
   <ul>{% for post in site.mentorship %}
-    {% include archive_people.html %}
+    {% include single.html %}
   {% endfor %}</ul>
