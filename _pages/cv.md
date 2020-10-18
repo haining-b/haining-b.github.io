@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
   * B.S. in Biology, New York University Abu Dhabi, 2014
-  * Ph.D in Plant Genetics, University of California, Berkeley, 2020
+  * PhD in Plant Genetics, University of California, Berkeley, 2020
   
 
 Work experience
