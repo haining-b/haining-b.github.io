@@ -78,13 +78,10 @@ button {
 <form action = '/genderguesser/' method="post">
 <ul>
   <li>
-    <label for="txt">Your test:</label>
+    <label for="txt">Your text:</label>
     <input type="text" id="txt" name="sample" value = "Type your text here">
   </li>
   <li class="button">
     <button type="submit">Submit</button>
   </li>
-</ul
 
-</form>
-</html>
