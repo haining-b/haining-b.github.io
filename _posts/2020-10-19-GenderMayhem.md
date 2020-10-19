@@ -1,7 +1,7 @@
 ---
 title: 'Gender Mayhem'
 date: 2020-10-19
-permalink: /posts/GenderMayhem/
+permalink: /posts/2020/10/GenderMayhem/
 tags:
   - cool posts
   - category1
