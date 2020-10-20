@@ -3,16 +3,12 @@ from bottle import Bottle
 app = Bottle()
 
 @app.route('/guessgender')
-def about():
+def guessgender():
   sample = request.forms.get('sample')
-  
-
-
-    punctuation2 = '-&'+'®©™€â´‚³©¥ã¼•ž®è±äüöž!@#Â“§$%^*()î_+€$=¿{”}[]:«;"»\â¢|+<>,.?/~`0123456789’'
-    for sign in punctuation2:
-        sample = sample.replace(sign, "")
-  
-
+  punctuation2 = '-&'+'®©™€â´‚³©¥ã¼•ž®è±äüöž!@#Â“§$%^*()î_+€$=¿{”}[]:«;"»\â¢|+<>,.?/~`0123456789’'
+  for sign in punctuation2:
+    sample = sample.replace(sign, "")
+ 
   sample_list_no_punc_l = sample.lower()
   sample_split = sample_list_no_punc_l.split(sep = ' ')
 
@@ -66,19 +62,19 @@ def about():
                       'your': 19
                      }
                      
-                     sumation_m = 0
-sumation_f = 0
-for word in sample_split:
-  if word in Gendered_word_list:
-    word_val = Gendered_word_list[word] 
-    if word_val< 0:
-      sumation_m = sumation_m + abs(word_val)
-    else:
-      sumation_f = sumation_f + word_val
+  sumation_m = 0
+  sumation_f = 0
+  for word in sample_split:
+    if word in Gendered_word_list:
+      word_val = Gendered_word_list[word] 
+      if word_val< 0:
+        sumation_m = sumation_m + abs(word_val)
+      else:
+        sumation_f = sumation_f + word_val
 
-total_points = sumation_f + sumation_m
-perc_m = sumation_m/total_points
-perc_f = sumation_f/total_points
-range_m_lower = perc_m - .1
-range_m_upper = perc_m + .1
-return(total_points)
+  total_points = sumation_f + sumation_m
+  perc_m = sumation_m/total_points
+  perc_f = sumation_f/total_points
+  range_m_lower = perc_m - .1
+  range_m_upper = perc_m + .1
+  return(total_points)
