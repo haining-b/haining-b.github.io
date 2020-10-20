@@ -77,4 +77,4 @@ def guessgender():
   perc_f = sumation_f/total_points
   range_m_lower = perc_m - .1
   range_m_upper = perc_m + .1
-  return(total_points)
+  return render_template('2020-10-19-Gm.md', file_path = f, result = total_points)
